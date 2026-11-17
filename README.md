@@ -78,8 +78,8 @@ All figures are written to `figures/` and all result tables to `results/`.
 
 ## 6. Results snapshot
 
-Best model by ROC-AUC is Logistic Regression (ROC-AUC 0.833, F1 0.607),
-closely followed by XGBoost (ROC-AUC 0.829, highest accuracy at 0.786). The top
+Best model by ROC-AUC is Logistic Regression (ROC-AUC 0.833, F1 0.606),
+closely followed by XGBoost (ROC-AUC 0.831, highest accuracy at 0.786). The top
 churn drivers are month-to-month contracts, short tenure, no online security or
 tech support, and electronic-check payment. Full numbers are in
 `results/model_comparison.csv`.

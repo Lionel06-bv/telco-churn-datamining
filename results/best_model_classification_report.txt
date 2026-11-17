@@ -2,7 +2,7 @@ Best model: Logistic Regression
 
               precision    recall  f1-score   support
 
-        Stay       0.90      0.72      0.80      1033
+        Stay       0.90      0.71      0.80      1033
        Churn       0.50      0.78      0.61       374
 
     accuracy                           0.73      1407
